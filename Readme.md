@@ -37,6 +37,9 @@ Explore the folders below to see various implementations:
 ### ⛓️ Data Structures in Hardware
 *   **[Linked List](./linked_list)**: A rare and fascinating implementation of a dynamic-like linked list structure purely in hardware logic.
 
+### 🧠 Neural Networks
+*   **[CNN](./cnn)**: A hardware-accelerated Neural Network implementation. Features a modular pipelined architecture with fixed-point arithmetic, configurable activation functions (ReLU/Sigmoid), and parallel neuron processing.
+
 ### 🔢 Display & Basics
 *   **[Num Display](./num_disply)**: Master the 7-segment display! Contains logic for multiplexing and binary-to-hex decoding.
 
